@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TallerProducts</string>
+
+    <string-array name="Productos">
+        <item>Mercancias Solidas</item>
+        <item>Mercancias Liquidas </item>
+        <item>Mercancias Agricolas </item>
+        <item>Mercancia Textil </item>
+        </string-array>
+
+
+
+
+</resources>
